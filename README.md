@@ -4,6 +4,28 @@ A modern placement preparation dashboard built with **HTML, CSS, and JavaScript*
 
 🌐 **Live Demo:** https://atharv135090.github.io/tracker/
 
+## 📖 Featured Article
+
+I wrote a detailed Medium article covering the complete journey of building PrepTrack — from the initial idea and design decisions to debugging challenges, heatmap implementation, study timer persistence, and lessons learned while developing a real-world project.
+
+🔗 **Read the full article:**
+
+https://medium.com/@atharvshinde13062005/building-preptrack-a-placement-preparation-dashboard-that-replaced-my-spreadsheets-41d4efdd619e
+
+### What you'll find in the article
+
+* 🚀 Why I built PrepTrack
+* 📚 Designing a placement preparation system
+* 📊 Building analytics and progress tracking
+* 🔥 Creating a GitHub-style contribution heatmap
+* ⏱️ Implementing a study timer with refresh recovery
+* 🏆 Achievement system and gamification
+* 🐛 Real bugs and debugging lessons
+* 💡 Software engineering insights and takeaways
+* 🔮 Future roadmap (Spring Boot, JWT, MySQL, Cloud Sync)
+
+If you're a student, developer, or placement aspirant, the article provides both the technical implementation details and the thought process behind building a product to solve a real problem.
+
 ---
 
 ## ✨ Features
